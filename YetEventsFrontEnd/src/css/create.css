@@ -1,0 +1,15 @@
+
+*{
+    vertical-align: middle;
+}
+
+.control-label{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.create-form .form-control{
+    border: none;
+    background: rgb(248, 247, 250);
+    color: rgb(57, 54, 79);
+    border-bottom: 0.5px solid rgb(57, 54, 79);
+}
